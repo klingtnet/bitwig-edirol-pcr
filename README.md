@@ -1,3 +1,7 @@
+**DEPRECATED**
+
+Please use [github.com/klingtnet/bitwig-extensions](https://github.com/klingtnet/bitwig-extensions) instead.
+
 # Bitwig Controller Script for the [Edirol PCR](http://www.rolandus.com/products/pcr-300/) USB Midi controller family
 
 [![Build Status](https://travis-ci.org/klingtnet/bitwig-edirol-pcr.svg?branch=master)](https://travis-ci.org/klingtnet/bitwig-edirol-pcr)
